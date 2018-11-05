@@ -28,10 +28,10 @@ With Ahoy, you can turn this into:
 
 ## FEATURES
 - Non-invasive - Use your existing workflow! It can wrap commands and scripts you are already using.
-- Consitent - Commands always run relative to the .ahoy.yml file, but can be called from any subfolder.
+- Consistent - Commands always run relative to the .ahoy.yml file, but can be called from any subfolder.
 - Visual - See a list of all of your commands in one place, along with helpful descriptions.
 - Flexible - Commands are specific to a single folder tree, so each repo/workspace can have its own commands
-- Fully interactive  - your shells (like MySQL) and prompts still work.
+- Fully interactive  - Your shells (like MySQL) and prompts still work.
 - Self-Documenting - Commands and help declared in .ahoy.yml show up as ahoy command help and bash completion of commands (see below)
 
 ## INSTALLATION
